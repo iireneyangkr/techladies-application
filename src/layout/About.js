@@ -6,7 +6,7 @@ export default function About() {
         <Article 
             title={"“I am 29 year-old Korean woman working in Singapore.”"}
             content={"For the past 5 years, I have been working as a marketer in various industries based in Seoul, Shanghai and Singapore."}
-            highlight={"Even though I was in non-tech industries, I came to realized that technology plays a significant role for the success of business. Therefore, I decided to learn JavaScript and NodeJS by forming a study group. For the past 4 months, I built a simple to do application together with the team and found that I actually enjoy it a lot more than I thought! Now I am looking to pursue my career in programming and TechLadies Bootcamp is where I wish to kick off my journey to a new life."}
+            highlight={"Even though I was in non-tech industries, I came to realized that technology plays a significant role for the success of business. Therefore, I decided to learn JavaScript and NodeJS by forming a study group. For the past 4 months, I built a simple to-do application together with the team and found that I actually enjoy it a lot more than I thought! Now I am looking to pursue my career in programming and TechLadies Bootcamp is where I wish to kick off my journey to a new life."}
         />
         <Article 
             title={"“I am a multilingual.”"}
